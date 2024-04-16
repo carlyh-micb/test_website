@@ -4,8 +4,7 @@ title: Learning Resources
 permalink: /learning/
 ---
 
-# Learning Resources
- 
+
 Welcome to the learning resources page for climate-smart knowledge mobilization and data hubs.
 
 ## Resources for data management
