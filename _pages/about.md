@@ -14,17 +14,17 @@ Vivamus pulvinar feugiat quam. Morbi vulputate nunc eu congue ultrices. Quisque 
 
 
 ## Team Members
-<img src="/images/Claude.jpg">
+<img src="/assets/images/Claude.jpg">
 
-![Claude Roberts](/images/Claude.jpg)
+![Claude Roberts](/assets/images/Claude.jpg)
 
 **Donec quam ligula**: interdum id vestibulum et, mollis at ante. Vivamus tempor quis nunc ut lacinia. Duis cursus, mi id venenatis ornare, est turpis feugiat dolor, ut eleifend erat lacus in ante. Vivamus sodales eget massa eget scelerisque. Sed at molestie massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus elementum lacus sit amet erat euismod porta. Etiam vel consequat felis. Phasellus eget euismod nisl.
 
-![Michelle Edwards](/images/Michelle.jpg)
+![Michelle Edwards](/assets/images/Michelle.jpg)
 
 **Donec quam ligula**: Nam vitae hendrerit dui. Sed at tincidunt justo, eget elementum risus. Pellentesque vel diam nibh. Curabitur bibendum leo ac elit eleifend euismod. In in metus placerat, congue metus congue, ultrices mi. Curabitur vitae ante id orci efficitur porta quis eget tellus. Quisque ultricies commodo placerat. Morbi quis risus vel est pulvinar porttitor. Quisque consequat blandit urna nec venenatis. Vestibulum iaculis arcu eu malesuada tempus. Morbi massa arcu, maximus faucibus nisl ac, fringilla accumsan ex. Pellentesque enim dolor, posuere nec lectus ac, commodo ornare dolor. Cras tincidunt nibh ac lorem cursus efficitur. 
 
-![William Hsiao](/images/william.png)
+![William Hsiao](/assets/images/william.png)
 
 **Donec quam ligula**: Nam vitae hendrerit dui. Sed at tincidunt justo, eget elementum risus. Pellentesque vel diam nibh. Curabitur bibendum leo ac elit eleifend euismod. In in metus placerat, congue metus congue, ultrices mi. Curabitur vitae ante id orci efficitur porta quis eget tellus. Quisque ultricies commodo placerat. Morbi quis risus vel est pulvinar porttitor. Quisque consequat blandit urna nec venenatis. Vestibulum iaculis arcu eu malesuada tempus. Morbi massa arcu, maximus faucibus nisl ac, fringilla accumsan ex. Pellentesque enim dolor, posuere nec lectus ac, commodo ornare dolor. Cras tincidunt nibh ac lorem cursus efficitur. 
 
