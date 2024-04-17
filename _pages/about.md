@@ -14,6 +14,7 @@ Vivamus pulvinar feugiat quam. Morbi vulputate nunc eu congue ultrices. Quisque 
 
 
 ## Team Members
+<img src="/images/Claude.jpg">
 
 ![Claude Roberts](/images/Claude.jpg)
 
