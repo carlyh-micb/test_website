@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Genomics-Ag-Climate
+name: Climate Smart Ag
 
 # Name of the author
 author: Carly Huitema
@@ -48,14 +48,14 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://carlyh-micb.github.io/climate_genomics
-enforce_ssl: https://carlyh-micb.github.io/climate_genomics
+url: https://climatesmartag.github.io/ClimateSmartAg-website/
+enforce_ssl: https://climatesmartag.github.io/ClimateSmartAg-website/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/climate_genomics"
+baseurl: "/ClimateSmartAg-website"
 
 #
 # !! You don't need to change any of the configuration flags below !!
