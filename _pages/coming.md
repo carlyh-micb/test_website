@@ -6,7 +6,7 @@ permalink: /coming/
 
 # What's coming
  
-## Climate Smart – Data Collaboration Centre
+## Climate Smart – Data Collaboration Centre (CS-DCC)
 - Data harmonization hub and discussion forum
 - Data governance hub and discussion forum
 - Training and resources in data sharing and analytics
