@@ -16,6 +16,6 @@ permalink: /coming/
 ## Agricultural Genomics Action Centre (AG-ACt) 
 - Training and resources in knowledge mobilization and commercialization
 - Capacity building with students and young professionals
-- Hiring of staff and establishment of organization and governance structures
-- Engagement with stakeholders, including ICT teams, government and industry
-- Sharing information from ICTs and synthesizing information and themes across projects to share with the community
+- Hiring staff and establishing organizational/governance structures
+- Engaging with ecosystem participants, including ICT teams, government and industry
+- Sharing information from ICTs, synthesizing information and identifying themes across projects to share with the community
