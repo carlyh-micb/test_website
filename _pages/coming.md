@@ -4,7 +4,7 @@ title: Coming
 permalink: /coming/
 ---
 
-# What's coming
+# What's Coming
  
 ## Climate Smart – Data Collaboration Centre (CS-DCC)
 - Data harmonization hub and discussion forum
