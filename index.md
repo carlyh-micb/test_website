@@ -1,6 +1,6 @@
 ---
 ---
-## About
+# About
 
 Agriculture and food systems in Canada not only feed the world but can help us to mitigate and adapt to the impacts of a changing climate. A more resilient and sustainable food system will reduce greenhouse gas emissions, sequester carbon, enhance biodiversity, ensure equity in food access, and support circularity – driving progress for people, our environment and our economy.
 
