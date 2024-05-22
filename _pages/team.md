@@ -20,7 +20,7 @@ permalink: /team/
 - **Luc Stafford**, Collaborator AG-ACt (Université de Montréal)
 -  **Guillaume Lhermie**, Collaborator AG-ACt (University of Calgary)
 
-## Climate Smart – Data Collaboration Centre
+## Climate Smart – Data Collaboration Centre (CS-DCC)
 
 - **Claude Robert**, Principal Investigator CS-DCC (Université Laval)
 - **Michelle Edwards**, Principal Investigator CS-DCC (University of Guelph)
