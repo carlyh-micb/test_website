@@ -12,4 +12,4 @@ Two new collaboration Hubs are now supporting this work across Canada as part of
 
 - **Climate Smart – Data Collaboration Centre (CS-DCC)** will support research data sharing, management and governance across projects by creating a data ecosystem featuring common frameworks for data exchange and sharing, community-developed data standards, open-source and reusable data processing toolkits, consensus-driven data governance, and training to develop community data competency.
 
-These Hubs were announced in June 2024. Learn more about the [project teams](https://climatesmartag.github.io/ClimateSmartAg-website-en/team/) or contact us <info@climatesmartagrifood.ca> for more information. 
+These Hubs were announced in June 2024. Learn more about the [project teams](https://climatesmartag.github.io/ClimateSmartAg-website-en/team/) or contact us at <info@climatesmartagrifood.ca> for more information. 
