@@ -20,6 +20,8 @@ permalink: /team/
 - **Luc Stafford**, Collaborator (Université de Montréal)
 - **Guillaume Lhermie**, Collaborator (University of Calgary)
 - **Michelle Stringer**, Project Administrator (University of Guelph)
+- **Alexandra Burdett**, Operations Director (University of Guelph)
+- **Laine Young**, Portfolio Manager (University of Guelph)
 
 ## Climate Smart – Data Collaboration Centre (CS-DCC)
 
