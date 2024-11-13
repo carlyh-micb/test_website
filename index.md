@@ -11,5 +11,11 @@ Two new collaboration Hubs are now supporting this work across Canada as part of
 - **Agricultural  Genomics Action Centre (AG-ACt)** will bring together participants across the genomics ecosystem, support teams in their mobilization and commercialization of project knowledge, train researchers and students, and synthesize learnings from across projects to inform policy and practice.
 
 - **Climate Smart – Data Collaboration Centre (CS-DCC)** will support research data sharing, management and governance across projects by creating a data ecosystem featuring common frameworks for data exchange and sharing, community-developed data standards, open-source and reusable data processing toolkits, consensus-driven data governance, and training to develop community data competency.
+  - [Knowledge/Documentation Page](https://climatesmartagcollab.github.io/Documentation-en/)
+  - [Schema Library/Data Catalogue](https://climatesmartagcollab.github.io/HUB-Harmonization/)
+  - Discussion Forum
+  - [GitHub Site](https://github.com/ClimateSmartAgCollab)
+  - [Harmonization Hub](https://github.com/ClimateSmartAgCollab/HUB-Harmonization)
+
 
 Learn more about the [project teams](https://climatesmartag.github.io/ClimateSmartAg-website-en/team/) or contact us at <info@climatesmartagrifood.ca> for more information. Read the news on the [Genome Canada](https://genomecanada.ca/news-and-events/news/) announcement page.
