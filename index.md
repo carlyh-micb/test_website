@@ -15,6 +15,8 @@ Two new collaboration Hubs are now supporting this work across Canada as part of
   - [Schema Library/Data Catalogue](https://climatesmartagcollab.github.io/HUB-Harmonization/)
   - [Climate Smart Ag on GitHub](https://github.com/ClimateSmartAgCollab)
   - [Harmonization Hub](https://github.com/ClimateSmartAgCollab/HUB-Harmonization)
+  - [Semantic Engine](https://www.semanticengine.org/)
+  - [Data Harmonizer](https://github.com/cidgoh/DataHarmonizer)
 
 
 Learn more about the [project teams](https://climatesmartag.github.io/ClimateSmartAg-website-en/team/) or contact us at <info@climatesmartagrifood.ca> for more information. Read the news on the [Genome Canada](https://genomecanada.ca/news-and-events/news/) announcement page.
