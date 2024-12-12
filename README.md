@@ -1,6 +1,6 @@
 # Website
 
-Main page is index.md, all other webpage content is in _pages.
+Main page is index.md, all other webpage content is in _pages. Then modify top level links with _layouts/default.html
 
 * [English site](https://climatesmartagrifood.ca/)
 * [French site](https://agrintelligenteclimat.ca/)
