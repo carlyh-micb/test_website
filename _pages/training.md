@@ -10,6 +10,5 @@ On this page you will find different training webinars and other events that are
 ## From the Hubs
 Coming...
 
-
 ## External
-[Bioinformatics.ca](https://bioinformatics.ca/workshops/current-workshops/) hosts training workshops and registration for 2025 workshops will open early in 2025. Check the webpage for eligibility.
+[Bioinformatics.ca](https://bioinformatics.ca/workshops/current-workshops/) hosts several training workshops on data analysis relevant to CSAFS projects. The course listing and registration for 2025 workshops will be posted in January 2025. Check the [Current Workshops](https://bioinformatics.ca/workshops/current-workshops/) webpage for information on the application process and travel bursaries. Recordings and presentations from previous workshops are freely available and can be access from [Workshops Archive](https://bioinformatics.ca/workshops/previous-workshops/).
