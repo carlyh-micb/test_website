@@ -2,12 +2,7 @@
 
 Main page is index.md, all other webpage content is in _pages. Then modify top level links with _layouts/default.html
 
-* [English site](https://climatesmartagrifood.ca/)
-* [French site](https://agrintelligenteclimat.ca/)
-
-* [GitHub skills - en](https://climatesmartagcollab.github.io/Documentation-en/github/)
-* [GitHub skills - fr](https://climatesmartagcollab.github.io/Documentation-fr/github/)
-
+https://carlyh-micb.github.io/test_website/
 
 # Documentation about the theme for the website
 
