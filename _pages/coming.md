@@ -19,5 +19,7 @@ permalink: /coming/
 - Hiring staff and establishing organizational/governance structures
 - Engaging with ecosystem participants, including ICT teams, government and industry
 - Sharing information from ICTs, synthesizing information and identifying themes across projects to share with the community
+- Forking webpages
 - Forking great resources 
 - Highly-Qualified Personnel (HQP) Advisory Committee
+
