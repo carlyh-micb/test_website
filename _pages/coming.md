@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Coming
+title: Coming Soon
 permalink: /coming/
 ---
 
-# What's Coming
+# What's Coming Soon
  
 ## Climate Smart – Data Collaboration Centre (CS-DCC)
 - Data harmonization hub and discussion forum
@@ -20,3 +20,6 @@ permalink: /coming/
 - Engaging with ecosystem participants, including ICT teams, government and industry
 - Sharing information from ICTs, synthesizing information and identifying themes across projects to share with the community
 - Forking webpages
+- Forking great resources 
+- Highly-Qualified Personnel (HQP) Advisory Committee
+
